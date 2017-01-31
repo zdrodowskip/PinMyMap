@@ -1,2 +1,7 @@
-Map software
-For Travelers
+Map Website For Travelers
+
+Pin My Map is a web application with a back-end database that can be used to pin
+markers on a map and then save and print the image.  It was built using HTML5, 
+CSS3, JavaScript, jQuery, PHP and MySQL.  It also utilizes the Google Maps
+JavaScript API for marking the map and Google Static Map API for creating a
+printable image.
